@@ -1,4 +1,4 @@
-### Olá mundo!!!! 👋
+### Hello word! 👋
 🔭 seja bem vindo ao meu perfil do GitHub.
 ##
 
