@@ -1,5 +1,5 @@
 <h1 aling="center"> Hello word! 👋</h1>
-<h2>🔭 Welcome to my GitHub profile.</h2>
+<h2>🔭 Welcome to my GitHub profile.😀</h2>
 
 ##
 - 🌱 Estou estudando Javascript
