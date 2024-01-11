@@ -1,14 +1,12 @@
 <h1 aling="center"> Hello word! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 <h2 aling="center">🔭 Welcome to my GitHub profile 😀</h2>
 
-- 💬 Design e interação de sites
-- ⚡ Objetivo: front-end
 
 
-<img align="center" style="margin-bottom:100" width=100% src="https://github.com/anaaraujo27/anaaraujo27/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <p align="center">I ❤️ tech. <br><br> Sonho de uma carreira na programação!</p>&nbsp;
+
 
 <div align="center" style="margin-bottom:100">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=anaaraujo27&theme=dark&mode=weekly" />
