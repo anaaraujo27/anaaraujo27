@@ -4,7 +4,7 @@
 <div align="center" style="margin-bottom:100">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </div>
-
+&nbsp;
 
 <p align="center">I ❤️ tech. <br><br> Sonho de uma carreira na programação!</p>&nbsp;
 
