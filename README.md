@@ -1,20 +1,18 @@
 <h1 aling="center"> Hello word! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 <h2 aling="center">🔭 Welcome to my GitHub profile 😀</h2>
 
+<div align="center" style="margin-bottom:100">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </div>
 
-
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <p align="center">I ❤️ tech. <br><br> Sonho de uma carreira na programação!</p>&nbsp;
 
+&nbsp;
 
 <div align="center" style="margin-bottom:100">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=anaaraujo27&theme=dark&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+ <img align="center" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+ </div> 
 
 
 ## About my programming languages 
@@ -32,13 +30,6 @@
 #### 🌱 Studying in this moment:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href = "mailto:anabeatrizaraujo0207@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
 
