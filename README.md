@@ -1,4 +1,4 @@
-<h1 aling="center"> Hello word! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
+<h1 aling="center"> Hello World! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 <h2 aling="center">🔭 Welcome to my GitHub profile 😀</h2>
 
 <div align="center" style="margin-bottom:100">
